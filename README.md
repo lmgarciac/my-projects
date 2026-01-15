@@ -41,7 +41,9 @@ They are not production-ready products, but learning-oriented or experimental wo
   A minimal compiler implementation, currently under active development.  
   https://github.com/lmgarciac/simple-compiler
 
-
-
+- **Concurrency Case Studies (WIP)**  
+  Progressive case studies on concurrent programming in C++  
+  https://github.com/lmgarciac/concurrency-studies/
+  
 
 
